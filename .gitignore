@@ -1,0 +1,4 @@
+/xorm.iml
+/vendor/
+!/vendor/vendor.json
+/.idea/
